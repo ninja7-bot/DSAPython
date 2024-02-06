@@ -1,5 +1,5 @@
 #Checks if a list is a hillValley or not.
-def hillValley(list):
+def hillvalley(list):
     upperBound = len(list) - 1
 
     maxIndex = list.index(max(list))
